@@ -1,0 +1,5 @@
+c:\users\damcdonald\documents\visual studio 2013\Projects\DavoAD\DavoAD\bin\Debug\DavoAD.dll
+c:\users\damcdonald\documents\visual studio 2013\Projects\DavoAD\DavoAD\bin\Debug\DavoAD.pdb
+c:\users\damcdonald\documents\visual studio 2013\Projects\DavoAD\DavoAD\obj\Debug\DavoAD.csprojResolveAssemblyReference.cache
+c:\users\damcdonald\documents\visual studio 2013\Projects\DavoAD\DavoAD\obj\Debug\DavoAD.dll
+c:\users\damcdonald\documents\visual studio 2013\Projects\DavoAD\DavoAD\obj\Debug\DavoAD.pdb
